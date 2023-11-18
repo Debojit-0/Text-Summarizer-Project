@@ -1,4 +1,6 @@
 # Text-Summarizer-Project
+
+This project aims to summarize the text in short and entire article 
 IDE USED - VS CODE,JUPYTER NOTE BOOK
 MODEL USED - PEGASUS MODEL FOR TEXT SUMMARIZATION
 
